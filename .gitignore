@@ -32,3 +32,10 @@ Thumbs.db
 
 # Crash logs
 sysinfo.txt
+
+# Build & temp
+*.apk
+*.dll
+SlaySlime_BurstDebugInformation_DoNotShip/
+.utmp/
+
